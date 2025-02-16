@@ -3,6 +3,8 @@
 This project is a web demo for the Segmentation Anything Model (SAM)] based
 on [Segmentation Anything Model (SAM) repository](https://github.com/facebookresearch/segment-anything/tree/dca509fe793f601edb92606367a655c15ac00fdf/demo).
 
+<img src="https://github.com/daniel-code/sam_web/raw/main/assets/demo.gif" width="500"/>
+
 ## Usage
 
 ### Pre-requisites
@@ -53,3 +55,11 @@ Here is the final directory structure:
 **Frontend**
 
 see [demo/README.md](./demo/README.md)
+
+## License
+
+The python code in this project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The web demo code is licensed under the Apache-2.0 license - see
+the [segment-anything LICENSE](https://github.com/facebookresearch/segment-anything?tab=Apache-2.0-1-ov-file#readme)
+file for details.
