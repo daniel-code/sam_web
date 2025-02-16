@@ -55,3 +55,11 @@ Here is the final directory structure:
 **Frontend**
 
 see [demo/README.md](./demo/README.md)
+
+## License
+
+The python code in this project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The web demo code is licensed under the Apache-2.0 license - see
+the [segment-anything LICENSE](https://github.com/facebookresearch/segment-anything?tab=Apache-2.0-1-ov-file#readme)
+file for details.
