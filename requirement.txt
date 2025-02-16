@@ -1,0 +1,9 @@
+fastapi[standard]==0.115.8
+onnx==1.17.0
+onnxruntime==1.16.0
+opencv-python==4.11.0.86
+pydantic==2.10.6
+torch==2.6.0
+torchvision==0.21.0
+
+segment_anything @ git+https://github.com/facebookresearch/segment-anything.git@dca509fe793f601edb92606367a655c15ac00fdf
