@@ -3,6 +3,8 @@
 This project is a web demo for the Segmentation Anything Model (SAM)] based
 on [Segmentation Anything Model (SAM) repository](https://github.com/facebookresearch/segment-anything/tree/dca509fe793f601edb92606367a655c15ac00fdf/demo).
 
+<img src="https://github.com/daniel-code/sam_web/raw/main/assets/demo.gif" width="500"/>
+
 ## Usage
 
 ### Pre-requisites
